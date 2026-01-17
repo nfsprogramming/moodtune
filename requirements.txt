@@ -1,0 +1,12 @@
+streamlit
+transformers
+torch
+scikit-learn
+pandas
+numpy
+flask
+python-dotenv
+fastapi
+uvicorn
+yt-dlp
+requests
